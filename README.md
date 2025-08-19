@@ -98,10 +98,10 @@ fprintf('Acceleration (X, Y, Z): %.2f, %.2f, %.2f m/s²\n', accX(end), accY(end)
 
  
 ## RESULT
-•	The battery temperature and vehicle acceleration were successfully simulated.
-•	The system monitored and displayed sensor data in MATLAB.
-•	The output provides insights into EV motion and battery performance.
+*The battery temperature and vehicle dynamics were effectively modeled.
+*Sensor readings were acquired, processed, and visualized using MATLAB.
+*The results deliver valuable understanding of electric vehicle motion behavior and battery performance trends.
  
 ## CONCLUSION
-This experiment demonstrated how temperature and motion sensors can be integrated into an embedded system for an electric vehicle simulation. This system can be extended to real sensors for live monitoring and safety applications.
+The experiment successfully demonstrated real-time sensor integration and monitoring for analyzing EV motion and battery performance.
 
