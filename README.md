@@ -92,7 +92,8 @@ fprintf('Acceleration (X, Y, Z): %.2f, %.2f, %.2f m/s²\n', accX(end), accY(end)
 
 
 ## OUTPUT
-<img width="1612" height="873" alt="image" src="https://github.com/user-attachments/assets/6208f72f-1c33-4b94-b9e2-0cf477ef1658" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e62fcb5-e962-4985-8f8c-55610e38e602" />
+
 
 
  
